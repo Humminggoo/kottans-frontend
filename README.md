@@ -16,7 +16,7 @@ Closing keywords in conditionals and loops in bash(like fi, done) were weird for
 **What will use:**  
 I plan to continue a project, where Express is used, so learning how HTTP response/request works is important.  
 ## Git Collaboration  
-[What is Version Control](./task_git_collaboration/GitHub_Collaboration _Udacity.png) | [GitHub & Collaboration](./task_git_collaboration/Version_Control_with_Git _Udacity.png)  
+[What is Version Control](./task_git_collaboration/GitHub_Collaboration_Udacity.png) | [GitHub & Collaboration](./task_git_collaboration/Version_Control_with_Git_Udacity.png)  
 **What was new:**  
 I've finally understood the difference between revert and reset.  
 **What surprised:**  
