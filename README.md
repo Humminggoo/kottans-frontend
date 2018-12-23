@@ -7,3 +7,17 @@ Although I have been working with Git for some time, I have learnt more about th
 It was good to know how version control system was implemented on other software(Dropbox, Google Docs, Wikipedia).  
 **What will use:**  
 I want to study out merging and working with remote repositories and also I want to customize command line using bash script for my convinience.  
+## Linux CLI, and HTTP  
+
+[Learn the Command Line](./task_linux_cli/Command_Line_Tutorial_Learn_The_Command_Line_Codecademy.png)  
+
+**What was new:**  
+
+I wasn't familiar with OPTIONS, TRACE, HEAD methods before. What's more I've learnt a bit about authentication types.  
+**What surprised:**  
+
+Closing keywords in conditionals and loops in bash(like fi, done) were weird for me.  
+
+**What will use:**  
+
+I plan to continue a project, where Express is used, so learning how HTTP response/request works is important.  
