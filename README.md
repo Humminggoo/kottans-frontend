@@ -21,3 +21,18 @@ Closing keywords in conditionals and loops in bash(like fi, done) were weird for
 **What will use:**  
 
 I plan to continue a project, where Express is used, so learning how HTTP response/request works is important.  
+## Git Collaboration  
+
+[What is Version Control](./task_git_collaboration/GitHub_Collaboration _Udacity.png) | [GitHub & Collaboration](./task_git_collaboration/Version_Control_with_Git _Udacity.png)  
+
+**What was new:**  
+
+I've finally understood the difference between revert and reset.  
+
+**What surprised:**  
+
+Commands git show <commit> and git log <commit> have different output.  
+
+**What will use:**  
+
+I encountered a lot of situations, where I had to restore the work from previous commits. Now I know how to revert changes without losing commits thanks to backup branches.  
