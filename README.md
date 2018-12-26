@@ -35,3 +35,16 @@ There are 3 different tags for quotes - quote, q, cite.
 **What will use:**  
 I've already used almost all tags, mentioned in these courses, but it 
 helped to refresh my memory.  
+## Responsive Web Design  
+[Responsive Web Design 
+Fundamentals](./task_responsive_web_design/Responsive_Web_Design_Fundamentals.png) 
+| [Flexbox 
+Froggy]((./task_responsive_web_design/Flexbox_Froggy.png)  
+**What was new:**  
+I've learnt about Device Independant Pixels and how they differ from 
+Hardware Pixels.  
+**What surprised:**  
+Optimal size for buttons on mobile versions must be 40-48px.  
+**What will use:**  
+I will try link tags with media atribute, flexbox and grid for 
+responsiveness.  
