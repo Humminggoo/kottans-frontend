@@ -39,7 +39,7 @@ helped to refresh my memory.
 [Responsive Web Design 
 Fundamentals](./task_responsive_web_design/Responsive_Web_Design_Fundamentals.png) 
 | [Flexbox 
-Froggy]((./task_responsive_web_design/Flexbox_Froggy.png)  
+Froggy](./task_responsive_web_design/Flexbox_Froggy.png)  
 **What was new:**  
 I've learnt about Device Independant Pixels and how they differ from 
 Hardware Pixels.  
