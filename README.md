@@ -23,3 +23,15 @@ I've finally understood the difference between revert and reset.
 Commands git show <commit> and git log <commit> have different output.  
 **What will use:**  
 I encountered a lot of situations, where I had to restore the work from previous commits. Now I know how to revert changes without losing commits thanks to backup branches.  
+## Intro to HTML & CSS  
+[Intro to HTML & CSS](./task_html_css_intro/Intro_to_HTML_and_CSS.png) | 
+[HTML Academy(HTML)](./task_html_css_intro/Курс«ОсновыHTML».png) | 
+[HTML Academy(CSS)](./task_html_css_intro/Курс«ОсновыCSS».png)  
+**What was new:**  
+I got to know new atributes for tags(size for select and rows/cols for 
+textarea).  
+**What surprised:**  
+There are 3 different tags for quotes - quote, q, cite.  
+**What will use:**  
+I've already used almost all tags, mentioned in these courses, but it 
+helped to refresh my memory.  
