@@ -94,9 +94,20 @@ and overriding toString for objects's custom output.
 [Task](https://github.com/Humminggoo/frontend-nanodegree-arcade-game)  
 Reviewed and approved by @OleksiyRudenko  
 **What was new:**  
-I learned Dacorator pattern, and how keyword this operates with global 
+I learned Decorator pattern, and how keyword this operates with global 
 context, function context, bind, call, apply, arrow functions.  
 **What surprised:**  
 Creating empty arrays with Array(n) is a bad practice(  
 **What will use:**  
-Prototypal superclasses and subclasses for inheritance. 
+Prototypal superclasses and subclasses for inheritance.  
+## Memory Pair Game  
+[Task](https://github.com/Humminggoo/frontend-nanodegree-arcade-game)  
+Reviewed and approved by @yevhenorlov  
+**What was new:**  
+I learned a trick how to shuffle arrays, better way for creating fade 
+animations(with visibility and opasity, not display property), in which 
+cases use let/const.  
+**What surprised:**  
+Property pointer-events: none can prevent mouse events on element.  
+**What will use:**  
+Transition property for creating animations.  
