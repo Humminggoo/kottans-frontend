@@ -61,20 +61,21 @@ I tend to complete more coding challenges on freecodecamp, i will think
 more about efficient and faster solutions for the problems.  
 ## DOM  
  [JavaScript and DOM](./task_js_dom/JavaScript_and_the_DOM.png) | 
-[Algorithms](./task_js_dom/Algorithms2.png)  
+[Algorithms](./task_js_dom/algorithms2.png)  
+[Task](https://github.com/Humminggoo/DOM_menu)  
+Reviewed and approved by @zonzujiro  
 **What was new:**  
 I got acquainted with textContent property, learn that DOMContentLoaded 
 more efficient than load event, better to use forEach array method than 
 for loop and put event listeners on parent element rather than many 
 child elements.  
-**What surprised:**
+**What surprised:**  
 Mousemove/mouseover and mouseleave/mouseenter events are kinda 
 different(the latter don't bubble).  
 **What will use:**  
 If i want to add set of elements on page, I will use documentFragment as 
 a wrapper, for individual elements - appendChild or 
 insertAdjacentElement.  
-Reviewed and approved by @zonzujiro  
 ## A Tiny JS World and OOP exercise
 [Task](https://github.com/Humminggoo/a-tiny-JS-world)  
 Reviewed and approved by @OleksiyRudenko @AMashoshyna  
