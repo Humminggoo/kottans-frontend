@@ -88,4 +88,15 @@ object).
 **What will use:**  
 Functions for creating classes and prototype object for adding methods 
 and overriding toString for objects's custom output.  
-
+## Object Oriented JS  
+[Object Oriented JS](./task_js_oop/Object_Oriented_JavaScript.png) |
+[Codewars](./task_js_oop/Codewars.png)  
+[Task](https://github.com/Humminggoo/frontend-nanodegree-arcade-game)  
+Reviewed and approved by @OleksiyRudenko  
+**What was new:**  
+I learned Dacorator pattern, and how keyword this operates with global 
+context, function context, bind, call, apply, arrow functions.  
+**What surprised:**  
+Creating empty arrays with Array(n) is a bad practice(  
+**What will use:**  
+Prototypal superclasses and subclasses for inheritance. 
