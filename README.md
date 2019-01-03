@@ -61,7 +61,7 @@ I tend to complete more coding challenges on freecodecamp, i will think
 more about efficient and faster solutions for the problems.  
 ## DOM  
  [JavaScript and DOM](./task_js_dom/JavaScript_and_the_DOM.png) | 
-[Algorithms](./task_js_dom/algorithms2.png)  
+[Algorithms](./task_js_dom/algorithms2.PNG)  
 [Task](https://github.com/Humminggoo/DOM_menu)  
 Reviewed and approved by @zonzujiro  
 **What was new:**  
