@@ -75,3 +75,17 @@ If i want to add set of elements on page, I will use documentFragment as
 a wrapper, for individual elements - appendChild or 
 insertAdjacentElement.  
 Reviewed and approved by @zonzujiro  
+## A Tiny JS World and OOP exercise
+[Task](https://github.com/Humminggoo/a-tiny-JS-world)  
+Reviewed and approved by @OleksiyRudenko @AMashoshyna  
+**What was new:**  
+How to create classes with prototypes and how to attach methods to these 
+classes, formerly I used only ES6 classes.  
+**What surprised:**  
+I found out the difference between Object.create(sets prototype and 
+properties) and Object.assign(copies properties of others into one 
+object).  
+**What will use:**  
+Functions for creating classes and prototype object for adding methods 
+and overriding toString for objects's custom output.  
+
