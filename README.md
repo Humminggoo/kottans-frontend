@@ -127,4 +127,13 @@ Paint).
 That webpages have several painting layers.  
 **What will use:**  
 Timeline and Layers tabs at DevTools for monitoring site performance.  
+## Friends App  
+[Task](https://github.com/Humminggoo/friends-app)  
+Reviewed and approved by @zonzujiro  
+**What was new:**  
+I figured out how to use ES6 modules, got acquainted with fetch method, learnt how to sort numerical and string data.  
+**What surprised:**  
+I've learnt how to apply multiple filters to data, got to know that using object literals is better than switch statements.  
+**What will use:**  
+Every, some, filter array methods for data filtering.  
 
