@@ -102,7 +102,7 @@ Creating empty arrays with Array(n) is a bad practice(
 **What will use:**  
 Prototypal superclasses and subclasses for inheritance.  
 ## Memory Pair Game  
-[Task](https://github.com/Humminggoo/frontend-nanodegree-arcade-game)  
+[Task](https://github.com/Humminggoo/memory-game)  
 Reviewed and approved by @yevhenorlov  
 **What was new:**  
 I learned a trick how to shuffle arrays, better way for creating fade 
@@ -112,3 +112,19 @@ cases use let/const.
 Property pointer-events: none can prevent mouse events on element.  
 **What will use:**  
 Transition property for creating animations.  
+## Website Performance Optimization  
+[Browser Rendering 
+Optimization](./task_website_performance/Browser_Rendering_Optimization.png) 
+| [Responsive Images](./task_website_performance/Responsive_Images.png) 
+|  [Website Performance 
+Optimization](./task_website_performance/Website_Performance_Optimization.png)  
+**What was new:**  
+I have learnt new tags and attributes(picture, sizes, srcset) that 
+provide responsiveness, RAIL performance concept(Response, Animation, 
+Idle, Load), Critical rendering path(DOM, CSSOM, Render tree, Layout, 
+Paint).  
+**What surprised:**  
+That webpages have several painting layers.  
+**What will use:**  
+Timeline and Layers tabs at DevTools for monitoring site performance.  
+
