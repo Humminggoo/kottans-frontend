@@ -50,10 +50,10 @@ I will try link tags with media atribute, flexbox and grid for
 responsiveness.  
 ## JS Basics  
  [Intro to JavaScript](./task_js_basics/Intro_to_JavaScript_Udacity.png) 
-| [Algorithms](./task_js_basics/algorithms1.png)  
+| [Algorithms1](./task_js_basics/basicJS.png) 
+| [Algorithms2](./task_js_basics/algorithms1.png)  
 **What was new:**  
-I learnt new ways how iterate objects, used Array functions like filter, 
-forEach, got to know how to create letters from charcode.  
+I learnt new ways how iterate objects, used Array functions like filter, forEach, got to know how to create letters from charcode.  
 **What surprised:**  
 Incluses method makes a search in array simpler.  
 **What will use:**  
